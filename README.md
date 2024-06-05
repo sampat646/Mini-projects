@@ -28,6 +28,45 @@ This repository contains a collection of mini projects built using HTML, CSS, an
      - Event listeners
      - DOM manipulation
      - State management
+# Clock and BMI Calculator
+
+Two simple projects: a clock app and a BMI calculator.
+
+## Clock⏰
+
+Displays the current time and allows setting an alarm.
+
+### Features
+- Show current time (hours, minutes, seconds)
+- Set an alarm
+- Alarm sound when time is reached
+
+### JavaScript Topics
+- Date and Time
+- setTimeout
+- Event Listeners
+
+## BMI Calculator
+
+Calculates Body Mass Index (BMI) based on height and weight inputs.
+
+### Features
+- Calculate BMI from height (cm/inches) and weight (kg/lbs)
+- Descriptive result based on BMI value
+- Responsive design
+
+### JavaScript Topics
+- User Input
+- Calculations
+- DOM Manipulation
+
+### Contributing
+
+Contributions welcome! Open an issue or submit a pull request.
+
+### License
+
+[MIT License](LICENSE)
 
 ## Getting Started
 
