@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+input[type="number"] {
+  padding: 10px;
+  font-size: 16px;
+  width: 60%;
+}
+
+input[type="submit"] {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.guesses {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.lastResult,
+.lowOrHi,
+.resultParas {
+  margin-top: 10px;
+  /* font-style: italic; */
+}
